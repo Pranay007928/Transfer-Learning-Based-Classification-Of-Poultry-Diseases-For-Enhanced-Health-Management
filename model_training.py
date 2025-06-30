@@ -1,3 +1,0 @@
-# Model Training Script
-
-# Placeholder
