@@ -1,3 +1,0 @@
-# Model Evaluation Script
-
-# Placeholder
